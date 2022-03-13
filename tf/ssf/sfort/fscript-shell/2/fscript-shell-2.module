@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "tf.ssf.sfort",
+    "module": "fscript-shell",
+    "version": "2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "fscript-shell-2.jar",
+          "url": "fscript-shell-2.jar",
+          "size": 15914,
+          "sha512": "e37275b1cc4dfb237bf25527dddc1092b0a8bc5acd4dee83658fc4166b2592f602349ae54ea60aa0c5d4d54c1d3b0b73075c13c070cd4cad26a261543d557c63",
+          "sha256": "4a6d0f2c8479e38c61982d451ba0c6f299ccd218756a7ee46312791453384712",
+          "sha1": "793cad7980e49f02ec85e4dfaa4fdbaf77cb2e53",
+          "md5": "50bb3ac09c38849ad8e22b0141de90e0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "fscript-shell-2.jar",
+          "url": "fscript-shell-2.jar",
+          "size": 15914,
+          "sha512": "e37275b1cc4dfb237bf25527dddc1092b0a8bc5acd4dee83658fc4166b2592f602349ae54ea60aa0c5d4d54c1d3b0b73075c13c070cd4cad26a261543d557c63",
+          "sha256": "4a6d0f2c8479e38c61982d451ba0c6f299ccd218756a7ee46312791453384712",
+          "sha1": "793cad7980e49f02ec85e4dfaa4fdbaf77cb2e53",
+          "md5": "50bb3ac09c38849ad8e22b0141de90e0"
+        }
+      ]
+    }
+  ]
+}
