@@ -27,11 +27,11 @@
         {
           "name": "fscript-shell-3.jar",
           "url": "fscript-shell-3.jar",
-          "size": 18546,
-          "sha512": "c193f8a0d50a570cc754a3ce3989b2b7cd9ab204a9eb2ec1cc9fb8d8de5f549cc50017471a4d8fce1e62cf15db9ba3e23a71505c6dd44e4d106e29e6d17f26e9",
-          "sha256": "ee75e60388ad7536c735f6aa6277bd47fbb1f7a8ebfe30df62c864e64d2d5abe",
-          "sha1": "683b714e4da55996aef747a803e4944afdf19037",
-          "md5": "6b79b73d2356eafb0c79260ead345d07"
+          "size": 18545,
+          "sha512": "64a24071aeae90d2612a132901c99785ae1efa0286df7ffd63ebe5b2917c638d9aebad86086c323deef0b9ef97070d11c9d36b35c94143d92dac0d164d89bc00",
+          "sha256": "d7bc38de8d36ac47fc9be05956ca2a036d1f21e8debb6c81dc64f8822d19b54b",
+          "sha1": "3a164b5746fcc846c470a8a565356be9d83e6fb7",
+          "md5": "e1bffe6c175c191ba2894f33ec0f0962"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "fscript-shell-3.jar",
           "url": "fscript-shell-3.jar",
-          "size": 18546,
-          "sha512": "c193f8a0d50a570cc754a3ce3989b2b7cd9ab204a9eb2ec1cc9fb8d8de5f549cc50017471a4d8fce1e62cf15db9ba3e23a71505c6dd44e4d106e29e6d17f26e9",
-          "sha256": "ee75e60388ad7536c735f6aa6277bd47fbb1f7a8ebfe30df62c864e64d2d5abe",
-          "sha1": "683b714e4da55996aef747a803e4944afdf19037",
-          "md5": "6b79b73d2356eafb0c79260ead345d07"
+          "size": 18545,
+          "sha512": "64a24071aeae90d2612a132901c99785ae1efa0286df7ffd63ebe5b2917c638d9aebad86086c323deef0b9ef97070d11c9d36b35c94143d92dac0d164d89bc00",
+          "sha256": "d7bc38de8d36ac47fc9be05956ca2a036d1f21e8debb6c81dc64f8822d19b54b",
+          "sha1": "3a164b5746fcc846c470a8a565356be9d83e6fb7",
+          "md5": "e1bffe6c175c191ba2894f33ec0f0962"
         }
       ]
     }
