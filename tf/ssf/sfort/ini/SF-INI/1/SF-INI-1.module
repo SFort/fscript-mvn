@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "tf.ssf.sfort.ini",
+    "module": "SF-INI",
+    "version": "1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "SF-INI-1.jar",
+          "url": "SF-INI-1.jar",
+          "size": 6353,
+          "sha512": "a4a12c39402902de62df9e4c39b38343dfb7bee955c917622a9a57be68c196be092cd67d675decedfcb5a822e3b53ee41c2d2fdc6ac382c3668161f74d73bf26",
+          "sha256": "787ebf71ac774bd602ba44531e1532415335e2eb707af994da5903e53adf17cf",
+          "sha1": "08f83485a5e460faf95af889005b4b9255056c35",
+          "md5": "5d5a50fbca95900317cbe2bf72f08ab3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "SF-INI-1.jar",
+          "url": "SF-INI-1.jar",
+          "size": 6353,
+          "sha512": "a4a12c39402902de62df9e4c39b38343dfb7bee955c917622a9a57be68c196be092cd67d675decedfcb5a822e3b53ee41c2d2fdc6ac382c3668161f74d73bf26",
+          "sha256": "787ebf71ac774bd602ba44531e1532415335e2eb707af994da5903e53adf17cf",
+          "sha1": "08f83485a5e460faf95af889005b4b9255056c35",
+          "md5": "5d5a50fbca95900317cbe2bf72f08ab3"
+        }
+      ]
+    }
+  ]
+}
