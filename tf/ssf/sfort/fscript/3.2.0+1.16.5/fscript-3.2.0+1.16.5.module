@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "tf.ssf.sfort",
+    "module": "fscript",
+    "version": "3.2.0+1.16.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "fscript-3.2.0+1.16.5.jar",
+          "url": "fscript-3.2.0+1.16.5.jar",
+          "size": 115469,
+          "sha512": "6d02ae9345cafb92c27700861368ce0ae7c26bcb1aee9748ea3740e6fd1ad89b211d86d72545efebbe59f8e10fdd3e08a0499316a5f3a4639a77f99311b39db1",
+          "sha256": "5b2b19c9e012b26be540c021699b8a83865c5737e9887c18ace70ddf58824af3",
+          "sha1": "daabe2eb04995e6ce6ed2f2502730cd2947ca2b4",
+          "md5": "dbb246f10226c203bc79725ab5c8adc0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.12.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "fscript-3.2.0+1.16.5.jar",
+          "url": "fscript-3.2.0+1.16.5.jar",
+          "size": 115469,
+          "sha512": "6d02ae9345cafb92c27700861368ce0ae7c26bcb1aee9748ea3740e6fd1ad89b211d86d72545efebbe59f8e10fdd3e08a0499316a5f3a4639a77f99311b39db1",
+          "sha256": "5b2b19c9e012b26be540c021699b8a83865c5737e9887c18ace70ddf58824af3",
+          "sha1": "daabe2eb04995e6ce6ed2f2502730cd2947ca2b4",
+          "md5": "dbb246f10226c203bc79725ab5c8adc0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "fscript-3.2.0+1.16.5-sources.jar",
+          "url": "fscript-3.2.0+1.16.5-sources.jar",
+          "size": 48405,
+          "sha512": "1e3e3b3560e7a8d9e5ea2689732719fc3d229c84f96569ee0cf41427485327da161059566dbf10e4fccf8ae41f5ad50dc051cc1f2f8d4d1686f3d0622f5acdd8",
+          "sha256": "8a043edeb2cf2d2857b0308c5ddaff7a37dba67a4d1cb2d5d5324514768f38bd",
+          "sha1": "2d51f10f0627cb4b847e9d16f3298ba937510f53",
+          "md5": "d361c0a7209d943e5be0a89f0c7c3bd6"
+        }
+      ]
+    }
+  ]
+}
