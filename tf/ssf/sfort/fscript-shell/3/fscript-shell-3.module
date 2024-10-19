@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.3"
+      "version": "8.10.1"
     }
   },
   "variants": [
@@ -27,11 +27,11 @@
         {
           "name": "fscript-shell-3.jar",
           "url": "fscript-shell-3.jar",
-          "size": 18521,
-          "sha512": "b9031958525740460cec462b9d9a8316f8d07c3d7d7224294ae6a292dbd11048dade41dc0458bf84c464c21032cfa8970a2668a9b907d455345395a24f88f439",
-          "sha256": "fbe50d4e7a53111f394942005ef045f842c0fee7b09bf1fd44c9e24ee87a732b",
-          "sha1": "1e72b5ef31d859852d530de96de53b31481363d1",
-          "md5": "bb36079cabc22893cc7d07a51c6bc9e5"
+          "size": 18545,
+          "sha512": "4575bf05efa7abda766bca4201c55985182155791d784679d8fc82f996499523774ae5ad67744aac23c965d1570e1c6a0e73fe8c4c4a7b5b2a29c1a839fe01fb",
+          "sha256": "5bf86a06f219d1c53024c768cff5b714c9305fbeb563e7b51cfadc895de01a1b",
+          "sha1": "69b0e2a9a1d79aa41de8ea5dcc00a95bcf983705",
+          "md5": "a1ab5df9006a59fd04b2f8861bf2273c"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "fscript-shell-3.jar",
           "url": "fscript-shell-3.jar",
-          "size": 18521,
-          "sha512": "b9031958525740460cec462b9d9a8316f8d07c3d7d7224294ae6a292dbd11048dade41dc0458bf84c464c21032cfa8970a2668a9b907d455345395a24f88f439",
-          "sha256": "fbe50d4e7a53111f394942005ef045f842c0fee7b09bf1fd44c9e24ee87a732b",
-          "sha1": "1e72b5ef31d859852d530de96de53b31481363d1",
-          "md5": "bb36079cabc22893cc7d07a51c6bc9e5"
+          "size": 18545,
+          "sha512": "4575bf05efa7abda766bca4201c55985182155791d784679d8fc82f996499523774ae5ad67744aac23c965d1570e1c6a0e73fe8c4c4a7b5b2a29c1a839fe01fb",
+          "sha256": "5bf86a06f219d1c53024c768cff5b714c9305fbeb563e7b51cfadc895de01a1b",
+          "sha1": "69b0e2a9a1d79aa41de8ea5dcc00a95bcf983705",
+          "md5": "a1ab5df9006a59fd04b2f8861bf2273c"
         }
       ]
     }
